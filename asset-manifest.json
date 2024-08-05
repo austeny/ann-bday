@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ann-bday/static/css/main.57616606.css",
-    "main.js": "/ann-bday/static/js/main.d1d3b372.js",
+    "main.js": "/ann-bday/static/js/main.2f7da9cd.js",
     "static/js/453.44b71258.chunk.js": "/ann-bday/static/js/453.44b71258.chunk.js",
     "static/media/bday.png": "/ann-bday/static/media/bday.7175a6dc19c600ae6aa2.png",
     "index.html": "/ann-bday/index.html",
     "main.57616606.css.map": "/ann-bday/static/css/main.57616606.css.map",
-    "main.d1d3b372.js.map": "/ann-bday/static/js/main.d1d3b372.js.map",
+    "main.2f7da9cd.js.map": "/ann-bday/static/js/main.2f7da9cd.js.map",
     "453.44b71258.chunk.js.map": "/ann-bday/static/js/453.44b71258.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57616606.css",
-    "static/js/main.d1d3b372.js"
+    "static/js/main.2f7da9cd.js"
   ]
 }
